@@ -16,7 +16,7 @@ document.getElementById('app').innerHTML = `
       <div class="image-container">
         <img
           class="hero-image"
-          src="/public/hero-image.jpg"
+          src="/hero-image.jpg"
           alt="hero-image"
           data-scroll
         />
@@ -65,14 +65,14 @@ document.getElementById('app').innerHTML = `
             <div class="box-image" data-scroll data-scroll-speed="1">
               <img
                 class="image-collection"
-                src="/public/image1.jpg"
+                src="/image1.jpg"
                 alt="image1"
               />
             </div>
             <div class="box-image" data-scroll data-scroll-speed="1">
               <img
                 class="image-collection"
-                src="/public/image2.jpg"
+                src="/image2.jpg"
                 alt="image2"
               />
             </div>
@@ -81,14 +81,14 @@ document.getElementById('app').innerHTML = `
             <div class="box-image" data-scroll data-scroll-speed="3">
               <img
                 class="image-collection"
-                src="/public/image3.jpg"
+                src="/image3.jpg"
                 alt="image3"
               />
             </div>
             <div class="box-image" data-scroll data-scroll-speed="3">
               <img
                 class="image-collection"
-                src="/public/image4.jpg"
+                src="/image4.jpg"
                 alt="image4"
               />
             </div>
